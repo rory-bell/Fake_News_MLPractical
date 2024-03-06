@@ -1,0 +1,55 @@
+Index,Field
+0,docID
+1,majorityTarget
+2,statement
+3,binaryNumTarget
+4,tweet
+5,threeLabelMajority
+6,fiveLabelMajority
+7,primaryCat
+8,primaryCatNum
+9,secondaryCat
+10,secondaryCatNum
+11,hashtags
+12,URLs
+13,unique_count
+14,total_count
+15,ORG_percentage
+16,NORP_percentage
+17,GPE_percentage
+18,PERSON_percentage
+19,MONEY_percentage
+20,DATE_percentage
+21,CARDINAL_percentage
+22,PERCENT_percentage
+23,ORDINAL_percentage
+24,FAC_percentage
+25,LAW_percentage
+26,PRODUCT_percentage
+27,EVENT_percentage
+28,TIME_percentage
+29,LOC_percentage
+30,WORK_OF_ART_percentage
+31,QUANTITY_percentage
+32,LANGUAGE_percentage
+33,Word count
+34,Max word length
+35,Min word length
+36,Average word length
+37,present_verbs
+38,past_verbs
+39,adjectives
+40,adverbs
+41,adpositions
+42,pronouns
+43,TOs
+44,determiners
+45,conjunctions
+46,dots
+47,exclamation
+48,questions
+49,ampersand
+50,capitals
+51,digits
+52,long_word_freq
+53,short_word_freq
